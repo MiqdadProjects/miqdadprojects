@@ -30,7 +30,7 @@
   - DevOps: Docker, Kubernetes, Jenkins, Terraform, Ansible  
   - DevSecOps: Container security, vulnerability scanning, secrets management  
   - Frontend Animation: GSAP  
-  - Frontend Frameworks: React, Vue
+  - AWS
 
 - 📫 Reach me at:  
   **miqdadraja562@gmail.com**
