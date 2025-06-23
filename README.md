@@ -12,8 +12,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on:  
-  [**Uptime Monitor**](https://github.com/miqdadhassan/uptime-monitor) – A Flask-based monitoring app using Docker, Kubernetes (Minikube), and CI/CD pipelines with Jenkins.
-
+DevOps and Cloud Native Projects.
 - 🌱 Preparing for certifications:  
   - 🧠 CKA – Certified Kubernetes Administrator  
   - 🔧 CKAD – Certified Kubernetes Application Developer  
