@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miqdad Hassan</h1>
-<h3 align="center">DevOps & DevSecOps Enthusiast | Learning Cloud Native & Automation</h3>
+<h3 align="center">DevOps & DevSecOps Enthusiast | Cloud Native & Automation Learner</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -9,35 +9,37 @@
 
 ---
 
-- 🔭 I’m currently working on:  
-  [**Uptime Monitor** – A Flask-based monitoring app with Docker, Kubernetes (Minikube), CI/CD using Jenkins](https://github.com/miqdadhassan/uptime-monitor)
+## 🚀 About Me
 
-- 🌱 I’m currently preparing for certifications:  
-  🧠 CKA – Certified Kubernetes Administrator  
-  🔧 CKAD – Certified Kubernetes Application Developer  
-  ☁️ AWS CCP – AWS Certified Cloud Practitioner  
-  🛡️ Exploring DevSecOps tools like Trivy, Aqua, and Vault
+- 🔭 Currently working on:  
+  [**Uptime Monitor**](https://github.com/miqdadhassan/uptime-monitor) – A Flask-based monitoring app using Docker, Kubernetes (Minikube), and CI/CD pipelines with Jenkins.
 
-- 👯 I’m looking to collaborate on:  
-  **DevOps Projects** – Microservices, CI/CD pipelines, or Infrastructure-as-Code projects
+- 🌱 Preparing for certifications:  
+  - 🧠 CKA – Certified Kubernetes Administrator  
+  - 🔧 CKAD – Certified Kubernetes Application Developer  
+  - ☁️ AWS CCP – AWS Certified Cloud Practitioner  
+  - 🛡️ Exploring DevSecOps tools: Trivy, Aqua Security, HashiCorp Vault
 
-- 🤝 I’m looking for help with:  
-  **Advanced DevOps Tooling & Infrastructure Scaling**
+- 👯 Open to collaborating on:  
+  DevOps projects involving Microservices, CI/CD pipelines, and Infrastructure-as-Code.
+
+- 🤝 Seeking help with:  
+  Advanced DevOps tooling and infrastructure scaling strategies.
 
 - 💬 Ask me about:  
   - DevOps: Docker, Kubernetes, Jenkins, Terraform, Ansible  
-  - DevSecOps: Trivy, Aqua, secrets management  
+  - DevSecOps: Container security, vulnerability scanning, secrets management  
   - Frontend Animation: GSAP  
-  - Frontend Frameworks: React & Vue
+  - Frontend Frameworks: React, Vue
 
-- 📫 How to reach me:  
+- 📫 Reach me at:  
   **miqdadraja562@gmail.com**
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Programming & Scripting
+### 💻 Programming & Scripting Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:15px; margin-bottom:10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:15px; margin-bottom:10px;"/>
@@ -45,8 +47,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right:15px; margin-bottom:10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right:15px; margin-bottom:10px;"/>
 </p>
-
-
 
 ### 🔧 DevOps & Cloud Tools
 <p>
@@ -78,11 +78,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Argo-logo.png" alt="ArgoCD" width="40" height="40" style="margin-right:15px; margin-bottom:10px;"/>
 </p>
 
-
-
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miqdadprojects&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
