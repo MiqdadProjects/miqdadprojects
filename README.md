@@ -17,7 +17,7 @@ DevOps and Cloud Native Projects.
   - 🧠 CKA – Certified Kubernetes Administrator  
   - 🔧 CKAD – Certified Kubernetes Application Developer  
   - ☁️ AWS CCP – AWS Certified Cloud Practitioner  
-  - 🛡️ Exploring DevSecOps tools: Trivy, Aqua Security, HashiCorp Vault
+  - 🛡️ Exploring DevSecOps tools: Trivy, Aqua Security, HashiCorp Vault.
 
 - 👯 Open to collaborating on:  
   DevOps projects involving Microservices, CI/CD pipelines, and Infrastructure-as-Code.
